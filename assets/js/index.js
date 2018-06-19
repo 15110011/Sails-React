@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
-import { render } from ReactDOM
+import { render } from 'react-dom'
 
 class Hello extends Component {
   render() {
     return (
-      <h1>Hello, World</h1>
+      <h1>Hello, Fetch</h1>
     )
   }
 }
